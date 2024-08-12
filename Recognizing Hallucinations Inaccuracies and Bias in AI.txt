@@ -315,10 +315,15 @@ monitoring to help mitigate the risks associated with AI and leverage its vast p
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Let's review what you've learned in this course.You've explored the fascinatingyet complex realm of AI-generated hallucinations across multiple domainsand explored how AI can produce 
-skewed outputs,leading to misinformation or bias.Armed with skills to critically evaluate AI content,you're now empowered to identify and address inaccuracies effectively,including how to 
-mitigate biases using techniques ranging from datapre-processing to algorithm adjustments.Most importantly, you've recognized the need to promote ethical AI use,emphasizing transparency 
-and accountability.
+* Let's Review
+--------------
+Let's review what you've learned in this course. You've explored the fascinating yet complex realm of AI-generated hallucinations across multiple domains and explored how AI can produce 
+skewed outputs, leading to misinformation or bias.
+
+Armed with skills to critically evaluate AI content, you're now empowered to identify and address inaccuracies effectively, including how to mitigate biases using techniques ranging from 
+data pre-processing to algorithm adjustments.
+
+Most importantly, you've recognized the need to promote ethical AI use, emphasizing transparency and accountability.
 
 
 
